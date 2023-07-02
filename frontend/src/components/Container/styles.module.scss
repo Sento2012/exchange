@@ -1,0 +1,23 @@
+.resisable__container {
+  position: absolute;
+  border: solid 1px #ddd;
+  background: #f0f0f0;
+  z-index: -1;
+}
+
+.container {
+  position: absolute;
+  border: 1px solid black;
+  padding: 0;
+}
+
+.container__wrapper {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.container__body {
+  background-color: #f68eba;
+  height: 100%;
+}
