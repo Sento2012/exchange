@@ -1,0 +1,17 @@
+.App {
+}
+
+.container {
+  display: inline;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  border: 1px solid black;
+  padding: 20px;
+}
+
+.btn {
+  padding: 20px;
+  border: 2px solid rebeccapurple;
+  width: 200px;
+}
